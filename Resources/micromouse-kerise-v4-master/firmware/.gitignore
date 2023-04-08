@@ -1,0 +1,10 @@
+## ESP-IDF
+build
+sdkconfig*.old
+
+## PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+.vscode
+/platformio-device-monitor-*.log
